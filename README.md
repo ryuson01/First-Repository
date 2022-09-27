@@ -1,4 +1,4 @@
-# First Repository
+# Sample - First Repository
 Ryan Yuson - BAIS Pro Prep
 
 ## Purpose
