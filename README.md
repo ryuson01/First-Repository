@@ -6,8 +6,9 @@ Explore and implement several elements of markdown syntax in a README.md file.
 
 ### Repository 1
 Syntax elements in this repository include:
-1. Headings
-2. ~~Strikethrough~~
-3. **Bold**
-4. *Italic*
-5. Emoji 🤠
+1. List
+2. Headings
+3. ~~Strikethrough~~
+4. **Bold**
+5. *Italic*
+6. Emoji 🤠
