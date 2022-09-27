@@ -2,7 +2,7 @@
 Ryan Yuson - BAIS Pro Prep
 
 # Purpose
-~~The purpose of this repository is to~~Practice implementing different elements of markdown syntax.
+~~The purpose of this repository is to~~ Explore and implement several elements of markdown syntax in a README.md file.
 
 # Repository 1
 Syntax elements in this repository include:
